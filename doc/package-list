@@ -1,0 +1,9 @@
+com.yreham.docbase
+com.yreham.docbase.config
+com.yreham.docbase.controllers
+com.yreham.docbase.fragments
+com.yreham.docbase.model
+com.yreham.docbase.parsers
+com.yreham.docbase.repository
+com.yreham.docbase.services
+com.yreham.docbase.util

@@ -1,0 +1,13 @@
+
+Example of using Spring4, Spring Data and Velocity to create a document template system.
+
+Author: dev.yreham@ at gmail.com
+Copyright 2015-2016
+
+Building
+Maven 2/3: mvn package 
+
+
+Test
+Junit4
+
